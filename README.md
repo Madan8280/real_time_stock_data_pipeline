@@ -5,6 +5,8 @@ An end-to-end data engineering project that ingests stock market data in batch a
 ## Architecture
 
 ![Architecture diagram](docs/architecture.png)
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/302182e2-92d2-4498-bc2e-703de2a159a0" />
+
 
 **Data flow:**
 
