@@ -126,11 +126,9 @@ Credentials in `docker-compose.yml` (such as the default MinIO user and password
 - [ ] Airflow DAG scheduling the batch job
 - [ ] Silver data loaded into Snowflake
 
-> Tick these off as you complete them, and remove anything you did not build before publishing.
 
-## Results
 
-[FILL IN: e.g. records processed per run, end-to-end latency, number of symbols tracked, a screenshot of the Snowflake table or a dashboard.]
+
 
 ## Limitations and Future Work
 
